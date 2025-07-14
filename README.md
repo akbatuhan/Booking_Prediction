@@ -51,16 +51,7 @@ Best clustering model based on all metrics: **K-Means**
 
 ---
 
-## 📁 Project Structure
 
-```
-📂 Hotel_Cancellation_Prediction
-├── main.ipynb               # Jupyter Notebook with full code
-├── GR_15_VMG_RAPOR.docx     # Project report (Turkish)
-└── README.md                # Project description
-```
-
----
 
 ## 📈 Results Summary
 
